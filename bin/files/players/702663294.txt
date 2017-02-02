@@ -1,0 +1,3 @@
+outsnm||2450||15oustnm||0||1000
+oustnm||0||1000
+adbaet||1130||16
